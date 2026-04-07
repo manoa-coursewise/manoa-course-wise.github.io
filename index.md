@@ -2,7 +2,7 @@
 
 **Honest Course Reviews and Smarter Scheduling for UH Mānoa Students**
 
-[View on GitHub](https://github.com/manoa-coursewise/manoa-course-wise)
+[View on GitHub](https://github.com/manoa-coursewise/manoa-course-wise.github.io)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
