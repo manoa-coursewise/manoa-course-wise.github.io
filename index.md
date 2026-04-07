@@ -74,6 +74,10 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 - Jaymond Guan  
 - Jon Crabtree
 
+## Team Contract
+You can view our **Team Contract** here:  
+[📄 Mānoa CourseWise Team Contract](https://docs.google.com/document/d/168F6vcAPAOMeE60Zdiq2MFgVBH58C4DuG1_wfssVZlQ/view)
+
 ---
 
 *Last updated: April 2026*  
