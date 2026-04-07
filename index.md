@@ -69,10 +69,11 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 - Users mark helpful reviews, gradually improving the quality of information for the entire community
 
 ## Team
-- Noah Nguyen  
-- Ryan Stuckey  
-- Jaymond Guan  
-- Jon Crabtree
+
+- [Noah Nguyen](https://noahnguyenbot.github.io/)  
+- [Ryan Stuckey](https://rystuckey.github.io/)  
+- [Jaymond Guan](https://jayguan1048.github.io/)  
+- [Jon Crabtree](https://longnekk.github.io/)
 
 ## Team Contract
 You can view our **Team Contract** here:  
