@@ -72,7 +72,7 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 - Noah Nguyen  
 - Ryan Stuckey  
 - Jaymond Guan  
-- John Crabtree
+- Jon Crabtree
 
 ---
 
