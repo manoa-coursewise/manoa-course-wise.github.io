@@ -1,59 +1,82 @@
-
 # Mānoa CourseWise
 
-**A better way for UH Mānoa students to choose classes**
+**Honest Course Reviews and Smarter Scheduling for UH Mānoa Students**
+
+[View on GitHub](https://github.com/manoa-coursewise/manoa-course-wise)
 
 ## Table of Contents
-- [Overview](#overview)
-- [The Problem](#the-problem)
-- [The Solution](#the-solution)
-- [Key Features](#key-features)
+- [Project Overview](#project-overview)
+- [The Challenge](#the-challenge)
+- [Planned Features](#planned-features)
+- [Phase 1: Core Review & Search System (MVP)](#phase-1-core-review--search-system-mvp)
 - [Mockup Pages](#mockup-pages)
 - [Use Cases](#use-cases)
-- [Special Sauce](#special-sauce)
 - [Team](#team)
 
-## Overview
-Mānoa CourseWise is a Next.js web application that helps University of Hawaiʻi at Mānoa students make smarter, more informed decisions when registering for classes every semester.
+## Project Overview
+Mānoa CourseWise is a Next.js web application designed to help University of Hawaiʻi at Mānoa students make better, more informed decisions when choosing classes each semester.
 
-## The Problem
-UH Mānoa students face difficulty every semester when choosing classes. Tools like RateMyProfessors are often too general or overly negative, and official UH systems provide little insight into real difficulty, workload, teaching style, or the best time to take a course. This leads to poor scheduling decisions, unexpected stress, and lower academic performance.
+## The Challenge
+UH Mānoa students often struggle to find reliable information when registering for courses. Tools like RateMyProfessors tend to be too general or overly negative, while official UH systems provide little insight into real difficulty, workload, teaching style, or the best time to take a course. This frequently leads to poor scheduling decisions, unexpected stress, and lower academic performance.
 
-## The Solution
-Mānoa CourseWise lets students share and discover **honest, constructive reviews** of courses, professors, and TAs. The app includes searchable course pages, schedule conflict checking, crowd-sourced “best semester” stats, and warning flags for common issues.
-
-Built with **Next.js**, **React**, and **Bootstrap 5** — fully responsive on all devices.
-
-## Key Features
-- Searchable course database with ratings, difficulty, and workload
-- Schedule conflict checker
+## Planned Features
+- Searchable course database with average ratings, difficulty, and workload
+- Built-in schedule conflict checker
 - Constructive review system with helpful flags
-- Personalized recommendations based on your major and learning style
-- Persistent data so the experience improves over time
+- Personalized recommendations based on user profile
+- Persistent data that improves with community contributions
+
+## Phase 1: Core Review & Search System (MVP)
+
+For the initial implementation, Mānoa CourseWise focuses on building a reliable, constructive review database for UH Mānoa courses and professors while providing basic search and scheduling tools.
+
+### Course & Professor Review System
+- Students can browse and search courses by department, course number, or keyword
+- Each course page shows average ratings for difficulty, workload, teaching quality, and overall value
+- Users can leave structured, constructive reviews with specific categories
+- Reviews require basic verification to maintain quality and reduce fake feedback
+
+### Review Submission Features
+- Logged-in students can submit reviews including:
+  - Numeric ratings (1–5) for difficulty, workload, clarity, and fairness
+  - Helpful flags such as “Heavy readings”, “Great lectures”, “Tough exams”, “Group projects”
+  - Optional written constructive feedback
+  - Best semester recommendation (Fall vs Spring, morning vs evening)
+
+- Students can mark reviews as “Helpful” to surface the best content
+
+### Schedule Conflict Checker
+- Simple planner where students can add potential courses
+- Instant detection of time conflicts
+- Suggestions for alternative courses with similar content or requirements
+
+### Search & Discovery
+- Filter courses by department, difficulty level, workload, or rating
+- View crowd-sourced “best semester” statistics
+- See common warning flags for each course or professor
 
 ## Mockup Pages
-- **Home/Landing Page**: Hero banner with UH Mānoa branding, prominent search bar, and featured courses
-- **Course Search Page**: Filterable grid showing courses with average ratings, difficulty, and workload
-- **Course Detail Page**: Reviews list, statistics, constructive flags, and built-in schedule conflict checker
-- **Submit Review Page**: Form for logged-in users with ratings, sliders, and flag selection
-- **User Dashboard**: Personalized recommendations, my reviews, and saved courses (the “special sauce”)
+- **Home / Landing Page**: Hero banner with UH Mānoa branding and prominent search bar
+- **Course Search Page**: Filterable grid showing courses with average ratings and key statistics
+- **Course Detail Page**: Reviews list, statistics, flags, and schedule conflict checker
+- **Submit Review Page**: Form with ratings, sliders, and flag selection
+- **User Dashboard**: Personalized recommendations, my reviews, and saved courses
 
 ## Use Cases
-- A student searches for “ICS 311” and quickly sees average difficulty, workload, and helpful student flags
-- After logging in, a user submits a review for a class they just finished and receives personalized course suggestions
-- A student adds several courses to a planner and instantly sees time conflicts with alternatives suggested
-- Users can mark helpful reviews, helping the community over time
-
-## Special Sauce
-The personalized user experience after registration and login. Each user has their own profile (major, year, learning preferences) that affects recommendations and highlights reviews from similar students. Reviews and data persist, making the app feel unique to every logged-in user.
+- A student searches for “ICS 311” and quickly sees honest feedback on difficulty, workload, and helpful flags
+- After finishing a course, a logged-in user submits a constructive review and receives personalized suggestions
+- Students build a potential schedule and instantly identify time conflicts with alternatives
+- Users mark helpful reviews, gradually improving the quality of information for the entire community
 
 ## Team
-- Noah Nguyen
-- Ryan Stuckey
-- Jaymond Guan
+- Noah Nguyen  
+- Ryan Stuckey  
+- Jaymond Guan  
 - John Crabtree
 
 ---
 
 *Last updated: April 2026*  
-This site will be updated as the project progresses.
+This site will evolve as the Mānoa CourseWise project progresses.
+
+
