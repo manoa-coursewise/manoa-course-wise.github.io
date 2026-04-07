@@ -8,7 +8,7 @@
 - [Project Overview](#project-overview)
 - [The Challenge](#the-challenge)
 - [Planned Features](#planned-features)
-- [Phase 1: Core Review & Search System (MVP)](#phase-1-core-review--search-system-mvp)
+- [Phase 1: Core Review & Search System](#phase-1-core-review--search-system-mvp)
 - [Mockup Pages](#mockup-pages)
 - [Use Cases](#use-cases)
 - [Team](#team)
