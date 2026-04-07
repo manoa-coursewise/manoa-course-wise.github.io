@@ -26,7 +26,7 @@ UH Mānoa students often struggle to find reliable information when registering 
 - Personalized recommendations based on user profile
 - Persistent data that improves with community contributions
 
-## Phase 1: Core Review & Search System (MVP)
+## Phase 1: Core Review & Search System 
 
 For the initial implementation, Mānoa CourseWise focuses on building a reliable, constructive review database for UH Mānoa courses and professors while providing basic search and scheduling tools.
 
