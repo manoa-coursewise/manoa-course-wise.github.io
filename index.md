@@ -56,11 +56,31 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 - See common warning flags for each course or professor
 
 ## Mockup Pages
-- **Home / Landing Page**: Hero banner with UH Mānoa branding and prominent search bar
-- **Course Search Page**: Filterable grid showing courses with average ratings and key statistics
-- **Course Detail Page**: Reviews list, statistics, flags, and schedule conflict checker
-- **Submit Review Page**: Form with ratings, sliders, and flag selection
-- **User Dashboard**: Personalized recommendations, my reviews, and saved courses
+
+### Home / Landing Page
+Hero banner with UH Mānoa branding and prominent search bar.
+
+![Home / Landing Page](img/mockup1.png)
+
+### Course Search Page
+Filterable grid showing courses with average ratings and key statistics.
+
+![Course Search Page](img/mockup1.png)
+
+### Course Detail Page
+Reviews list, statistics, flags, and schedule conflict checker.
+
+![Course Detail Page](img/mockup1.png)
+
+### Submit Review Page
+Form with ratings, sliders, and flag selection.
+
+![Submit Review Page](img/mockup1.png)
+
+### User Dashboard
+Personalized recommendations, my reviews, and saved courses.
+
+![User Dashboard](img/mockup1.png)
 
 ## Use Cases
 - A student searches for “ICS 311” and quickly sees honest feedback on difficulty, workload, and helpful flags
