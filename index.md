@@ -71,12 +71,12 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 ### Home / Landing Page
 
 
-![Home / Landing Page](img/mockup1.png)
+![Home / Landing Page](img/landingpage.png)
 
 ### Course Search Page
 
 
-![Course Search Page](img/mockup2.png)
+![Course Search Page](img/coursesearch.png)
 
 ### Course Detail Page
 
@@ -86,7 +86,7 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 ### Submit Review Page
 
 
-![Submit Review Page](img/mockupsubmitreview.png)
+![Submit Review Page](img/submitreview.png)
 
 ### User Dashboard
 
