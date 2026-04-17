@@ -103,6 +103,10 @@ You can view our **Team Contract** here:
 View our **Milestone 1 Project Board** here:  
 [🔗 Milestone 1 Progress](https://github.com/orgs/manoa-coursewise/projects/4/views/1)
 
+## Milestone 2
+View our **Milestone 2 Project Board** here:  
+[🔗 Milestone 2 Progress](https://github.com/orgs/manoa-coursewise/projects/5/views/1)
+
 ## Deployment
 **Live Demo:** [https://manoa-course-wise.vercel.app/](https://manoa-course-wise.vercel.app/)
 
