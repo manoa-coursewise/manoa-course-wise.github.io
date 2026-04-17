@@ -7,7 +7,7 @@
 - [The Challenge](#the-challenge)
 - [Planned Features](#planned-features)
 - [Phase 1: Core Review & Search System](#phase-1-core-review--search-system-mvp)
-- [Screenshots](#screenshots)
+- [Up to Date Pictures of Deployment](#up-to-date-pictures-of-deployment)
 - [Use Cases](#use-cases)
 - [Team](#team)
 - [Team Contract](#team-contract)
@@ -56,7 +56,7 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 - View crowd-sourced “best semester” statistics
 - See common warning flags for each course or professor
 
-## Screenshots
+## Up to Date Pictures of Deployment
 
 ### Home / Landing Page
 ![Home / Landing Page](img/landingpage.png)
