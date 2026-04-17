@@ -81,7 +81,7 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 ### Course Detail Page
 
 
-![Course Detail Page](img/mockupcoursedetail.png)
+![Course Detail Page](img/coursedetails311.png)
 
 ### Submit Review Page
 
@@ -91,7 +91,7 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 ### User Dashboard
 
 
-![User Dashboard](img/mockupuserdashboard.png)
+![User Dashboard](img/userdashboard.png)
 
 ## Use Cases
 
