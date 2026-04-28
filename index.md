@@ -59,7 +59,7 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 - View crowd-sourced “best semester” statistics
 - See common warning flags for each course or professor
 
-## Up to Date Pictures of Deployment
+## User Guide
 
 ### Home / Landing Page
 ![Home / Landing Page](img/landingpage.png)
