@@ -106,6 +106,10 @@ View our **Milestone 1 Project Board** here:
 View our **Milestone 2 Project Board** here:  
 [🔗 Milestone 2 Progress](https://github.com/orgs/manoa-coursewise/projects/5)
 
+### Milestone 3
+View our **Milestone 3 Project Board** here:  
+[🔗 Milestone 3 Progress](https://github.com/orgs/manoa-coursewise/projects/6)
+
 # Developer Guide
 
 ## Getting Started
