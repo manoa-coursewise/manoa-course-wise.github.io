@@ -60,18 +60,24 @@ For the initial implementation, Mānoa CourseWise focuses on building a reliable
 
 ### Home / Landing Page
 ![Home / Landing Page](img/landingpage.png)
-
-### Course Search Page
-![Course Search Page](img/coursesearch.png)
-
-### Course Detail Page
-![Course Detail Page](img/coursedetails311.png)
-
-### Submit Review Page
-![Submit Review Page](img/submitreview.png)
+- Upon opening Manoa CourseWise, the user will be brought to the home page. Here, they will be inclined to use the search bar for searching courses, or to select one of the above tabs to freely browse courses, professors, or even submitting a review. However, the act of doing so will immediately redirect to a sign-in page wherethe user either logs in or signs up. 
 
 ### User Dashboard
 ![User Dashboard](img/userdashboard.png)
+- Here in the user dashboard, the user is now capable of accessing other pages and even viewing their own saved reviews and courses. They can also navigate to the account details page that is accessible from the dropdown menu in order to change/view important account information. 
+
+### Course Search Page
+![Course Search Page](img/course-search-M2.png)
+- In this page, the user will be able to freely navigate across all ICS pages with relevant user reviews, ratings, schedule information, tags, and general course information. Selecting a card will bring a user to the course detail page. There is intended searchbar functionality that acts as a filter for certain typed keywords.
+
+### Course Detail Page
+![Course Detail Page](img/coursedetails311.png)
+- In the course detail page, the user is capable of viewing specific information about a given course as well as see the actual reviews and relevant course information. Only general information such as ratings and tags were truly accessible from the course search page. 
+
+### Submit Review Page
+![Submit Review Page](img/submit-review-M2.png)
+- In the event that a user has already taken a course, they can freely submit a review that allows them to select the specific course, term, and professor while providing feedback on the three specified fields as well as any additional information they feel like providing. A submitted review is immediately accessible from a course detail page, and both the course detail and catalog pages will reflect the change in ratings. 
+
 
 ## Use Cases
 - A student searches for “ICS 311” and quickly sees honest feedback on difficulty, workload, and helpful flags
