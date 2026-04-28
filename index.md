@@ -107,6 +107,89 @@ View our **Milestone 2 Project Board** here:
 ## Deployment
 **Live Demo:** [https://manoa-course-wise.vercel.app/](https://manoa-course-wise.vercel.app/)
 
+# Developer Guide
+
+## Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-repo-url>
+   cd manoa-course-wise
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables**
+   - Copy `.env.example` to `.env.local` and fill in the required values.
+
+4. **Set up the database (if using Prisma)**
+   ```bash
+   npx prisma generate
+   npx prisma migrate dev
+   ```
+
+5. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+   - Visit [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Useful Scripts
+
+- `npm run dev` — Start the development server.
+- `npm run build` — Build the app for production.
+- `npm run start` — Start the production server.
+- `npm run lint` — Run ESLint.
+- `npm run seed` — Seed the database.
+- `npm run import:ics` — Import ICS courses from CSV.
+
+## Project Structure
+
+- `src/app/` — Main Next.js app directory.
+- `src/components/` — Reusable React components.
+- `prisma/` — Prisma schema and migrations.
+- `data/` — Static data files (e.g., CSV).
+- `public/` — Static assets.
+
+## Testing
+
+- Playwright tests are in the `tests/` directory.
+- Run tests with:
+  ```bash
+  npm run playwright
+  ```
+
+
+## Deployment (Vercel)
+
+This project is designed for seamless deployment on [Vercel](https://vercel.com/):
+
+1. **Push your changes to GitHub (or your Git provider).**
+2. **Connect your repository to Vercel** (if not already done).
+3. **Set up environment variables** in the Vercel dashboard (Settings > Environment Variables).
+4. **Vercel will automatically build and deploy your app** on every push to the main branch (or any branch you configure).
+
+You do not need to manually run `npm run build` or `npm run start` for Vercel deployments—Vercel handles this automatically in the cloud.
+
+For local production testing (optional):
+```bash
+npm run build
+npm run start
+```
+
+## Troubleshooting
+
+- If you see `command not found: next`, run `npm install`.
+- If you change the Prisma schema, run:
+  ```bash
+  npx prisma generate
+  npx prisma migrate dev
+  ```
+
+
 ---
 *Last updated: April 2026*  
 This site will evolve as the Mānoa CourseWise project progresses.
