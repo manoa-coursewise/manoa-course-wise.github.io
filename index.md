@@ -104,9 +104,6 @@ View our **Milestone 1 Project Board** here:
 View our **Milestone 2 Project Board** here:  
 [🔗 Milestone 2 Progress](https://github.com/orgs/manoa-coursewise/projects/5)
 
-## Deployment
-**Live Demo:** [https://manoa-course-wise.vercel.app/](https://manoa-course-wise.vercel.app/)
-
 # Developer Guide
 
 ## Getting Started
@@ -191,6 +188,10 @@ npm run start
 
 
 ---
+
+## Deployment
+**Live Demo:** [https://manoa-course-wise.vercel.app/](https://manoa-course-wise.vercel.app/)
+
 *Last updated: April 2026*  
 This site will evolve as the Mānoa CourseWise project progresses.
 
