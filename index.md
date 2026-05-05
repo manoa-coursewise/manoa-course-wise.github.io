@@ -42,7 +42,7 @@ UH Mānoa students often struggle to find reliable information when registering 
 ## User Guide
 
 ### Home / Landing Page
-![Home / Landing Page](img/landingpage.png)
+![Home / Landing Page](/img/landingpagefinal.png)
 - Upon opening Manoa CourseWise, the user will be brought to the home page. Here, they will be inclined to use the search bar for searching courses, or to select one of the above tabs to freely browse courses, professors, or even submitting a review. However, the act of doing so will immediately redirect to a sign-in page wherethe user either logs in or signs up. 
 
 ### User Dashboard
