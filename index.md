@@ -62,8 +62,8 @@ UH Mānoa students often struggle to find reliable information when registering 
 - Here in the user dashboard, the user is now capable of accessing other pages and even viewing their own saved reviews and courses. They can also navigate to the account details page that is accessible from the dropdown menu in order to change/view important account information. 
 
 ### Course Search Page
-![Course Search Page](img/course-search-M2.png)
-- In this page, the user will be able to freely navigate across all ICS pages with relevant user reviews, ratings, schedule information, tags, and general course information. Selecting a card will bring a user to the course detail page. There is intended searchbar functionality that acts as a filter for certain typed keywords.
+![Course Search Page](/img/searchCourses2.png)
+- On this page, users can browse and search for both ICS and Math courses using the search bar and filter options. The search bar allows users to quickly find courses by typing keywords, while the filter lets them narrow results to either ICS or Math courses. Each course card displays user reviews, ratings, tags, and general course information. Selecting a card takes the user to the detailed course page for more information.
 
 ### Course Detail Page
 ![Course Detail Page](img/coursedetails311.png)
