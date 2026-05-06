@@ -56,6 +56,7 @@ UH Mānoa students often struggle to find reliable information when registering 
 - To sign up, click the “Sign Up” link and fill out the form with your desired username, email, and password.  
 - After registering, you can sign in by entering either your username or email along with your password on the “Sign In” page.  
 - If you have trouble signing in, double-check your credentials.
+- username and password are case senstive!
 ### User Dashboard
 ![User Dashboard](img/userdashboard.png)
 - Here in the user dashboard, the user is now capable of accessing other pages and even viewing their own saved reviews and courses. They can also navigate to the account details page that is accessible from the dropdown menu in order to change/view important account information. 
