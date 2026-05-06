@@ -43,8 +43,24 @@ UH Mānoa students often struggle to find reliable information when registering 
 
 ### Home / Landing Page
 ![Home / Landing Page](/img/landingpagefinal.png)
-- Upon opening Manoa CourseWise, the user will be brought to the home page. Here, they will be inclined to use the search bar for searching courses, or to select one of the above tabs to freely browse courses, professors, or even submitting a review. However, the act of doing so will immediately redirect to a sign-in page wherethe user either logs in or signs up. 
+- Upon opening Manoa CourseWise, the user will be brought to the home page. Here, they will be inclined to use the search bar for searching courses, or to select one of the above tabs to freely browse courses, professors, or even submitting a review. However, the act of doing so will immediately redirect to a sign-in page wherethe user either logs in or signs up.
+  
+### Sign Up / Sign In Page
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; min-width: 300px;">
+    **Sign Up Form**
+    ![Sign Up Page](/img/signup-page.png)
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    **Sign In Form**
+    ![Sign In Page](/img/signin-page.png)
+  </div>
+</div>
+
+- To sign up, click the “Sign Up” link and fill out the form with your desired username, email, and password.  
+- After registering, you can sign in by entering either your username or email along with your password on the “Sign In” page.  
+- If you have trouble signing in, double-check your credentials.
 ### User Dashboard
 ![User Dashboard](img/userdashboard.png)
 - Here in the user dashboard, the user is now capable of accessing other pages and even viewing their own saved reviews and courses. They can also navigate to the account details page that is accessible from the dropdown menu in order to change/view important account information. 
