@@ -47,12 +47,14 @@ UH Mānoa students often struggle to find reliable information when registering 
   
 ### Sign Up / Sign In Page
 
-| **Sign Up Form** | **Sign In Form** |
-|------------------|------------------|
-| ![Sign Up Page](/img/signUp.png) | ![Sign In Page](/img/signIn.png) |
+**Sign Up Form**  
+![Sign Up Page](/img/signUp.png)
 
-- To sign up, click the “Sign Up” link and fill out the form with your desired username, email, and password.
-- After registering, you can sign in by entering either your username or email along with your password on the “Sign In” page.
+**Sign In Form**  
+![Sign In Page](/img/signIn.png)
+
+- To sign up, click the “Sign Up” link and fill out the form with your desired username, email, and password.  
+- After registering, you can sign in by entering either your username or email along with your password on the “Sign In” page.  
 - If you have trouble signing in, double-check your credentials.
 ### User Dashboard
 ![User Dashboard](img/userdashboard.png)
