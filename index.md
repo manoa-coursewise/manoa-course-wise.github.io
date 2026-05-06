@@ -66,7 +66,7 @@ UH Mānoa students often struggle to find reliable information when registering 
 - On this page, users can browse and search for both ICS and Math courses using the search bar and filter options. The search bar allows users to quickly find courses by typing keywords, while the filter lets them narrow results to either ICS or Math courses. Each course card displays user reviews, ratings, tags, and general course information. Selecting a card takes the user to the detailed course page for more information.
 
 ### Course Detail Page
-![Course Detail Page](img/coursedetails311.png)
+![Course Detail Page](/img/coursePage2.png)
 - In the course detail page, the user is capable of viewing specific information about a given course as well as see the actual reviews and relevant course information. Only general information such as ratings and tags were truly accessible from the course search page. 
 
 ### Submit Review Page
