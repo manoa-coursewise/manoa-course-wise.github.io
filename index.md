@@ -47,19 +47,12 @@ UH Mānoa students often struggle to find reliable information when registering 
   
 ### Sign Up / Sign In Page
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; min-width: 300px;">
-    **Sign Up Form**
-    ![Sign Up Page](/img/signUp.png)
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    **Sign In Form**
-    ![Sign In Page](/img/signIn.png)
-  </div>
-</div>
+| **Sign Up Form** | **Sign In Form** |
+|------------------|------------------|
+| ![Sign Up Page](/img/signUp.png) | ![Sign In Page](/img/signIn.png) |
 
-- To sign up, click the “Sign Up” link and fill out the form with your desired username, email, and password.  
-- After registering, you can sign in by entering either your username or email along with your password on the “Sign In” page.  
+- To sign up, click the “Sign Up” link and fill out the form with your desired username, email, and password.
+- After registering, you can sign in by entering either your username or email along with your password on the “Sign In” page.
 - If you have trouble signing in, double-check your credentials.
 ### User Dashboard
 ![User Dashboard](img/userdashboard.png)
