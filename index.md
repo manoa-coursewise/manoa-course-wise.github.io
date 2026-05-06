@@ -50,11 +50,11 @@ UH Mānoa students often struggle to find reliable information when registering 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div style="flex: 1; min-width: 300px;">
     **Sign Up Form**
-    ![Sign Up Page](/img/signup-page.png)
+    ![Sign Up Page](/img/signUp.png)
   </div>
   <div style="flex: 1; min-width: 300px;">
     **Sign In Form**
-    ![Sign In Page](/img/signin-page.png)
+    ![Sign In Page](/img/signIn.png)
   </div>
 </div>
 
