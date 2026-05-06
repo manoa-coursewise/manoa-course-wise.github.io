@@ -67,8 +67,12 @@ UH Mānoa students often struggle to find reliable information when registering 
 
 ### Course Detail Page
 ![Course Detail Page](/img/coursePage2.png)
-- In the course detail page, the user is capable of viewing specific information about a given course as well as see the actual reviews and relevant course information. Only general information such as ratings and tags were truly accessible from the course search page. 
-
+- In the course detail page, the user is capable of viewing specific information about a given course as well as see the actual reviews and relevant course information. Only general information such as ratings and tags were truly accessible from the course search page.
+  
+### Professors Page
+![Professors Page](/img/professorsPage.png)
+- The Professors page displays a list of all professors associated with courses in the system. Users can view which professors teach which courses, helping them identify instructors for specific classes and explore course offerings by professor. The page also provides options to sort the list alphabetically by professor name or by course code for easier navigation.
+  
 ### Submit Review Page
 ![Submit Review Page](img/submit-review-M2.png)
 - In the event that a user has already taken a course, they can freely submit a review that allows them to select the specific course, term, and professor while providing feedback on the three specified fields as well as any additional information they feel like providing. A submitted review is immediately accessible from a course detail page, and both the course detail and catalog pages will reflect the change in ratings. 
