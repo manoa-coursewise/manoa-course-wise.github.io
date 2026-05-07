@@ -15,6 +15,7 @@
   - [Milestone 3](#milestone-3)
 - [Developer Guide](#developer-guide)
 - [Community Feedback](#community-feedback)
+- [Effort Report](#effort-report)
 - [Deployment](#deployment)
   
 
@@ -203,7 +204,8 @@ npm run start
 > — **Dang Ngo**, UH Mānoa Undergraduate Student
 
 ---
-
+## Effort Report
+**[View Project Effort Report Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBFOU6XrWLT51cYYFXnYbJAFS6WH1uHKYvJTJHgpXaKJuV5vtrwwkJO_S0hnMQT1b3OvLwl_ohAaxx/pubhtml)**
 
 ## Deployment
 **Live Demo:** [https://manoa-course-wise.vercel.app/](https://manoa-course-wise.vercel.app/)
