@@ -14,6 +14,7 @@
   - [Milestone 2](#milestone-2)
   - [Milestone 3](#milestone-3)
 - [Developer Guide](#developer-guide)
+- [Community Feedback](#community-feedback)
 - [Deployment](#deployment)
   
 
@@ -190,6 +191,19 @@ npm run start
 
 
 ---
+
+# Community Feedback
+
+> “As an alumnus, I think this platform is a great step forward for UH Manoa students. While it’s still new and the number of reviews is limited, the idea of having course and professor info in one place is fantastic. I hope more students contribute so it becomes even more useful.”
+>
+> — **Asher Uchiyama**, UH Mānoa Alumni
+
+> “I like the clean design and the ability to filter courses, but since the app is just starting out, there aren’t a lot of reviews yet. I’m looking forward to seeing more feedback from other students as the site grows.”
+>
+> — **Dang Ngo**, UH Mānoa Undergraduate Student
+
+---
+
 
 ## Deployment
 **Live Demo:** [https://manoa-course-wise.vercel.app/](https://manoa-course-wise.vercel.app/)
