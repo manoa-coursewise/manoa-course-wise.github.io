@@ -196,13 +196,38 @@ npm run start
 
 # Community Feedback
 
-> “As an alumnus, I think this platform is a great step forward for UH Manoa students. While it’s still new and the number of reviews is limited, the idea of having course and professor info in one place is fantastic. I hope more students contribute so it becomes even more useful.”
->
-> — **Asher Uchiyama**, UH Mānoa Alumni
+## Feedback #1
 
-> “I like the clean design and the ability to filter courses, but since the app is just starting out, there aren’t a lot of reviews yet. I’m looking forward to seeing more feedback from other students as the site grows.”
->
-> — **Dang Ngo**, UH Mānoa Undergraduate Student
+- The dashboard UI is clean and easy to navigate, but some sections (like saved courses) could use more visual distinction or icons for quick scanning.
+- When submitting a review, there’s no confirmation message—users might not be sure if their input was saved.
+- The course search is fast, but filtering by professor sometimes returns unexpected results (e.g., partial matches).
+- It would be helpful to have a “recently viewed” or “recommended courses” section based on user activity.
+
+## Feedback #2
+
+- The navigation is intuitive, and the dashboard loads quickly, making it easy to find key features.
+- The color scheme is visually appealing, but some text (like on buttons) could use higher contrast for better readability.
+- The course search and filter options are responsive, but filtering by professor sometimes returns too many unrelated results.
+- The review submission process is straightforward, but a confirmation message after submitting would reassure users that their input was received.
+
+## Feedback #3
+
+- The dashboard is easy to navigate, and the main features are accessible from the homepage.
+- Some error messages are generic; more descriptive errors would help users understand what went wrong.
+- The site’s performance is good overall, but there’s a slight delay when loading course details.
+
+## Feedback #4
+
+- The overall design is modern and clean, making the site pleasant to use.
+- It would be useful to have a “recently viewed courses” feature for quick access.
+- The logout button is easy to find, but it could provide a confirmation or redirect after logging out.
+
+## Feedback #5
+
+- Consider adding a “favorites” or “bookmark” feature so users can quickly access courses or professors they’re interested in.
+- A notification system for new reviews or updates would help keep users engaged and informed.
+- Allow users to sort or filter reviews by date, rating, or course for easier browsing.
+- Adding brief tooltips or help icons next to key features would make the site more user-friendly for first-time visitors.
 
 ---
 ## Effort Report
