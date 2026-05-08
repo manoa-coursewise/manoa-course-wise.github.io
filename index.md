@@ -18,6 +18,7 @@
 - [Effort Report](#effort-report)
 - [Deployment](#deployment)
   
+![ci-badge](https://github.com/manoa-coursewise/manoa-course-wise/actions/workflows/ci.yml/badge.svg)
 
 ## Project Overview
 Mānoa CourseWise is a Next.js web application designed to help University of Hawaiʻi at Mānoa students make better, more informed decisions when choosing classes each semester.
